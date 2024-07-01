@@ -1,1 +1,1 @@
-This is another example!
+This is another example.
